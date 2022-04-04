@@ -1,6 +1,8 @@
 import pandas as pd
 import streamlit as st
 
+st.title('Student Passing Rate')
+
 y = 50 # minimum passing score
 
 while True: 
